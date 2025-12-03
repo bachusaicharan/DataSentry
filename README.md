@@ -25,9 +25,6 @@
       <img src="https://img.shields.io/badge/AI-Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="gemini">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="license">
-    </a>
-    <a href="#">
       <img src="https://img.shields.io/badge/Status-Production%20Ready-green?style=for-the-badge" alt="status">
     </a>
   </p>
